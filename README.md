@@ -1,4 +1,3 @@
-https://media.tenor.com/f4eKzaPOZUYAAAAd/rz-ds-project.gif
 <h1 align="center">Hi 👋, I'm Ronak_Suthar</h1>
 <h3 align="center">Hi, I'm Ronak. I'm currently pursuing a CSBS degree. I'm a curious learner. I like working hard as well as thinking strategically. I enjoy playing Chess.</h3>
 <img align="right" width="300" height="260" src="https://media.tenor.com/f4eKzaPOZUYAAAAd/rz-ds-project.gif">
