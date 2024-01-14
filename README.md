@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronak-ronu&label=Profile%20views&color=0e75b6&style=flat" alt="ronak-ronu" /> </p>
 
 - 🌱 I’m currently learning **DSA using Java, React Native, Portfolio Building.**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JI_P--KfbAcmDmFW6XgkQhoQAcViFnEr/view?usp=sharing](https://drive.google.com/file/d/1JI_P--KfbAcmDmFW6XgkQhoQAcViFnEr/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MnpVmJ-egInhYGuc5NAJQc9gmb2dBFDa/view?usp=sharing))
 - Hello World [Portfolio-v1.0](https://imronak-2002.web.app/#/)
 
 <h3 align="left">Connect with me:</h3>
