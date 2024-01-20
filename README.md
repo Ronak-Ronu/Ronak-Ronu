@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronak_Suthar</h1>
 <h3 align="center">Hi, I'm Ronak. I'm currently pursuing a CSBS degree. I'm a curious learner. I like working hard as well as thinking strategically. I enjoy playing Chess.</h3>
-<img align="right" width="300" height="260" src="https://media.tenor.com/f4eKzaPOZUYAAAAd/rz-ds-project.gif">
+<img align="right" width="400" height="300" src="https://github.com/Ronak-Ronu/Ronak-Ronu/assets/112187817/1172a43d-9b19-4445-9b02-775d1851dfa7">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronak-ronu&label=Profile%20views&color=0e75b6&style=flat" alt="ronak-ronu" /> </p>
 
 - 🌱 I’m currently learning **DSA using Java, React Native, Portfolio Building.**
