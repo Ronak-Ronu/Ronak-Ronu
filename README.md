@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ronak_Suthar</h1>
 <h3 align="center">Hi, I'm Ronak. I'm currently pursuing a CSBS degree. I'm a curious learner. I like working hard as well as thinking strategically. I enjoy playing Chess.</h3>
+<a href="https://ronak-ronu.github.io/Terminal_Demo/" target="_blank">
+  
 <img align="right" width="400" height="300" src="https://github.com/Ronak-Ronu/Ronak-Ronu/assets/112187817/1172a43d-9b19-4445-9b02-775d1851dfa7">
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronak-ronu&label=Profile%20views&color=0e75b6&style=flat" alt="ronak-ronu" /> </p>
 
 - 🌱 I’m currently learning **DSA using Java, React Native, Portfolio Building.**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MnpVmJ-egInhYGuc5NAJQc9gmb2dBFDa/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MnpVmJ-egInhYGuc5NAJQc9gmb2dBFDa/view?usp=sharing)
 - Hello World [Portfolio-v1.0](https://imronak-2002.web.app/#/)
 
 <h3 align="left">Connect with me:</h3>
