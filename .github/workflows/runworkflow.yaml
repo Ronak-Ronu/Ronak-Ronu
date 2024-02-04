@@ -16,7 +16,7 @@ jobs:
       
       - name: Update README
         run: |
-          # echo "${{ github.event.issue.user.login }}" >> Readme.md
+          echo "${{ github.event.issue.user.login }}" 
           git config --local user.email github-actions[bot]
           git config --local user.name  github-actions[bot]@users.noreply.github.com
           git add Readme.md

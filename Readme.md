@@ -44,13 +44,13 @@
 +-----------------------------------+](https://github.com/Ronak-Ronu/Ronak-Ronu/issues/new?body=%22Enter%20you%20thought%20here%22&title=%22Name%20your%20thought%22)
 
 #### Top users who merges their thoughts.
-<pre>
+<!-- <pre>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="margin-right: 10px;"> 
   <p style="margin: 0;">This is username</p>
   <p style="margin: 0;">This is comment</p>
 </div>
-</pre>
+</pre> -->
 
 THANK YOU
 
