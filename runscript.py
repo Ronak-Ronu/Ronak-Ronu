@@ -32,7 +32,10 @@ with open('Readme.md', 'r') as file:
 generate_comment=create_comment(issue_author_avatar,issue_title,issue_body)
 start_index = readme_content.find("#### Top users who merges their thoughts.")
 end_index = readme_content.find("THANK YOU")
-updated_readme_content = readme_content[:start_index] + generate_comment + readme_content[end_index:]
 
-with open('Readme.md', 'a') as file:
-    file.write(updated_readme_content)
+if start_index != -1 and end_index != -1:
+    with open('Readme.md', 'a') as file:
+        file.seek(end_index)
+        file.write("\n" + generate_comment + "\n")
+else:
+    print("Start and/or end index not found in README.md. Comment not appended.")
