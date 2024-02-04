@@ -33,8 +33,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RonakSuthar-informational?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ronaksutharb/)&nbsp;&nbsp;&nbsp;
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)&nbsp;&nbsp;&nbsp;
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/alwinw" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+ <a href="https://github.com/Ronak-Ronu" target="_blank"><img alt="Ronak-Ronu" src="https://badges.pufler.dev/visits/Ronak-Ronu/Ronak-Ronu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+
+
+### Hey visiter,"merge" your thought;
+
+
+[+-----------------------------------+<br/>
+| TYPE YOUR THOUGHTS            |<br/>
++-----------------------------------+](https://github.com/Ronak-Ronu/Ronak-Ronu/issues/new?body=%22Enter%20you%20thought%20here%22&title=%22Name%20your%20thought%22)
+
+#### Top users who merges their thoughts.
+<pre>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="margin-right: 10px;"> 
+  <p style="margin: 0;">This is username</p>
+  <p style="margin: 0;">This is comment</p>
+</div>
+</pre>
+
+THANK YOU
 
 <a href="https://www.buymeacoffee.com/ronakronu0a" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="100" ></a>
-
-

@@ -1,0 +1,27 @@
+name: visitors thoughts workflow
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update-my-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: run python script
+        run: python runscript.py
+      
+      - name: Update README
+        run: |
+          # echo "${{ github.event.issue.user.login }}" >> Readme.md
+          git config --local user.email github-actions[bot]
+          git config --local user.name  github-actions[bot]@users.noreply.github.com
+          git add Readme.md
+          git commit -m "Update README with issue owner"
+          git push origin HEAD:main
+          
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
