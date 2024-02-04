@@ -21,7 +21,7 @@ issue_body= event_data['issue']['body']
 
 
 def create_comment(issue_author_avatar,issue_title,issue_body):
-    createcontent=f"<pre><img src={issue_author_avatar} width=\"30\">{issue_title}<br/>{issue_body}</pre>"
+    createcontent=f"<pre><img src={issue_author_avatar} width=\"30\">&nbsp;&nbsp;&nbsp;{issue_author}<br/>Thought_name: &nbsp;{issue_title}<br/>Thought: &nbsp;{issue_body}</pre>"
     return createcontent
 
 
