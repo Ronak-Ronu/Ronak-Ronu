@@ -55,3 +55,5 @@
 THANK YOU
 
 <a href="https://www.buymeacoffee.com/ronakronu0a" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="100" ></a>
+
+<pre><img src=https://avatars.githubusercontent.com/u/158744215?v=4 width="30">&nbsp;&nbsp;&nbsp;merge-my-pr<br/>Thought_name: &nbsp;Amazing thought<br/>Thought: &nbsp;Hey,Your GitHub profile is impressive! I really admire the breadth and depth of your projects. Keep up the great work</pre>
