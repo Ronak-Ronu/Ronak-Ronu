@@ -61,3 +61,5 @@ THANK YOU
 <pre><img src=https://avatars.githubusercontent.com/u/112187817?v=4 width="30">&nbsp;&nbsp;&nbsp;Ronak-Ronu<br/>Thought_name: &nbsp;Thank you merge-my-pr<br/>Thought: &nbsp;I appreciate your thought. It inspires.</pre>
 
 <pre><img src=https://avatars.githubusercontent.com/u/123486203?v=4 width="30">&nbsp;&nbsp;&nbsp;VimalRamesh24<br/>Thought_name: &nbsp;Nice profile<br/>Thought: &nbsp;Nice work bro.keep it up👍</pre>
+
+<pre><img src=https://avatars.githubusercontent.com/u/155941655?v=4 width="30">&nbsp;&nbsp;&nbsp;Jegan05102003<br/>Thought_name: &nbsp;smart work<br/>Thought: &nbsp;intresting work  .✌️</pre>
