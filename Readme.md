@@ -29,8 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronak-ronu&show_icons=true&locale=en" alt="ronak-ronu" /></p>
 
-[![Website](https://img.shields.io/badge/Portfolio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)]([https://bws.bio](https://imronak-2002.web.app/))&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RonakSuthar-informational?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ronaksutharb/)&nbsp;&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/Portfolio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://imronak-2002.web.app/)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RonakSuthar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaksutharb/)&nbsp;&nbsp;&nbsp;
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)&nbsp;&nbsp;&nbsp;
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/Ronak-Ronu" target="_blank"><img alt="Ronak-Ronu" src="https://badges.pufler.dev/visits/Ronak-Ronu/Ronak-Ronu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
