@@ -17,7 +17,7 @@
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🛝 commit -m "Learning and Building".
 
-![Readme Quotes]( https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&quote=When%20in%20doubt,%20use%20brute%20force.&author=Ken%20Thompson)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha&quote=%20Don%27t%20be%20a%20follower%20,%20Be%20a%20student%20&author=Jim%20Rohn)
 
 
 <h3 align="left">Languages and Tools:</h3>
