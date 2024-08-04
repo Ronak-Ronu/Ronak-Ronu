@@ -12,7 +12,7 @@
 <img align="right" width="400" height="300" src="https://github.com/Ronak-Ronu/Ronak-Ronu/assets/112187817/1172a43d-9b19-4445-9b02-775d1851dfa7">
 </a>
 
-- 🌱 I’m currently learning **DSA using Java, React Native, Portfolio Building.**
+- 🌱 I’m currently learning **DSA using Java, Angular 18, Portfolio Building.**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JI_P--KfbAcmDmFW6XgkQhoQAcViFnEr/view?usp=sharing)
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🛝 commit -m "Learning and Building".
