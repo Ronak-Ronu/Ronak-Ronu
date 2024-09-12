@@ -13,7 +13,7 @@
 </a>
 
 - 🌱 I’m currently learning **DSA using Java, Angular 18, Portfolio Building.**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QmRZih9NxJaCNDqY1BTv8mZC9o9zdhOo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_EiTzQmuvtX7CS2fKEvKWekuDnSiJxy0/view?usp=sharing)
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🛝 commit -m "Learning and Building".
 
