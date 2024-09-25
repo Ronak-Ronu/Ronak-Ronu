@@ -20,7 +20,6 @@
 - ✏️  In free time,I read and write on [medium](https://medium.com/@ronakronu02)
 - 🛝 commit -m "Learning and Building".
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha&quote=%20Don%27t%20be%20a%20follower%20,%20Be%20a%20student%20&author=Jim%20Rohn)
 
 ---
 
