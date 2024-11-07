@@ -14,7 +14,7 @@
 <img align="right" width="400" height="300" src="https://github.com/Ronak-Ronu/Ronak-Ronu/assets/112187817/1172a43d-9b19-4445-9b02-775d1851dfa7">
 </a>
 
-- 🌱 I’m currently learning **DSA using Java, Angular 18, Portfolio Building.**
+- 🌱 I’m currently learning **DSA using Java, Angular 18,Ruby On Rails**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_EiTzQmuvtX7CS2fKEvKWekuDnSiJxy0/view?usp=sharing)
 - 🚀 Always ready to collaborate for Dev Experiments
 - ✏️  In free time,I read and write on [medium](https://medium.com/@ronakronu02)
