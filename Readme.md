@@ -15,7 +15,7 @@
 </a>
 
 - 🌱 I’m currently learning **DSA using Java, Angular 18,Ruby On Rails**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_EiTzQmuvtX7CS2fKEvKWekuDnSiJxy0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16VWnAE1zcv2G2OJVqB7dwxhtfHcp62Do/view?usp=sharing)
 - 🚀 Always ready to collaborate for Dev Experiments
 - ✏️  In free time,I read and write on [medium](https://medium.com/@ronakronu02)
 - 🛝 commit -m "Learning and Building".
