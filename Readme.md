@@ -1,20 +1,22 @@
 <details>
-  <summary>Who am i?💭</summary>
+  <summary>Who am I? 🤔</summary>
+  
   <pre>
-  <h1 align="center">Hi 👋, I'm Ronak_Suthar</h1>
-  </pre>
+     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng5a2w4dzhqajlqZzJ5cWFqY2xqc3M2eW16MGo4dWFvaHZ3a3RibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1I6HRxR7pQojS/giphy.gif" align="right" width="220" height="120" />
+Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doing.  </pre>
+
 </details>
+
 
 ---
 
-<h3 align="center">I'm currently pursuing a CSBS degree. I'm a curious learner. I like working hard as well as thinking strategically. I enjoy playing Chess.</h3>
 </p>
 <a href="https://ronak-ronu.github.io/Terminal_Demo/" target="_blank">
 
 <img align="right" width="300" height="280" src="https://github.com/Ronak-Ronu/Ronak-Ronu/assets/112187817/1172a43d-9b19-4445-9b02-775d1851dfa7">
 </a>
 
-- 🌱 I’m currently learning **DSA using Java, Angular 18,Ruby On Rails**
+- 🌱 I’m currently learning how I can be **better**. 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16VWnAE1zcv2G2OJVqB7dwxhtfHcp62Do/view?usp=sharing)
 - 🚀 Always ready to collaborate for Dev Experiments
 - ✏️  In free time,I read and write on [medium](https://medium.com/@ronakronu02)
