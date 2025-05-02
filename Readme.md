@@ -17,7 +17,7 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 </a>
 
 - 🌱 I’m currently learning how I can be **better**. 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16VWnAE1zcv2G2OJVqB7dwxhtfHcp62Do/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1AJbow29pZz3Qj8oJ2kvDrMwl_YuJHucRL-Q-meL2h5k/edit?usp=sharing)
 - 🚀 Always ready to collaborate for Dev Experiments
 - ✏️  In free time,I read and write on [medium](https://medium.com/@ronakronu02)
 - 🛝 commit -m "Learning and Building".
