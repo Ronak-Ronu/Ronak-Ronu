@@ -74,6 +74,19 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 
 ---
 
+#### Recent Blog Posts
+<pre>
+    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; max-width: 500px;">
+        <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/czvoqzbslux2gvfgvyfa" width="50" style="float: left; margin-right: 10px;">
+        <h4 style="margin: 0; font-size: 16px;">New Feature Alert 🚨🚨🚨</h4>
+        <p style="font-size: 12px; color: #555;">Posted on: 2025-05-29</p>
+        <p style="font-size: 14px;">    <h1 align="center">New Feature Alert: Follower Notifications Go BRRR! 🚨</h1>
+
+    <p align="just...</p>
+        <a href="https://berony.web.app/read/68385485bb76b512cc76e62a" target="_blank" style="text-decoration: none; color: #1a73e8;">Read More</a>
+    </div>
+    </pre>
+
 #### Top users who merges their thoughts.
 <!-- <pre>
 <div style="display: flex; align-items: center; justify-content: space-between;">
