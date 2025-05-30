@@ -4,13 +4,14 @@ on:
   issues:
     types: [opened]
   schedule:
-    - cron: '0 0 */2 * *'
+    - cron: '*/1 * * * *'
 
 env:
   BLOG_API_URL: ${{ secrets.BLOG_API_URL }}
 
 jobs:
   update-my-readme:
+    if: github.event_name == 'issues'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -32,6 +33,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   update-blog-post:
+    if: github.event_name != 'issues'
     runs-on: ubuntu-latest
     env:
       BLOG_API_URL: ${{ secrets.BLOG_API_URL }}
