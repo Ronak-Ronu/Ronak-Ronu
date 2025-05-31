@@ -86,7 +86,7 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
       <small style="color: #555;">Posted on: 2025-05-29</small><br>
       <p style="font-size: 14px; margin: 5px 0;">    <h1 align="center">New Feature Alert: Follower Notifications Go BRRR! 🚨</h1>
 
-    <p align="justify">Hold onto your keyboards, folks, because we’ve just rolled out a feature so hot it might crash ...</p>
+  <p align="justify">Hold onto your keyboards, folks, because we’ve just rolled out a feature so hot it might crash ...</p>
       <a href="https://berony.web.app/read/68385485bb76b512cc76e62a" target="_blank">Read More</a>
     </td>
   </tr>
