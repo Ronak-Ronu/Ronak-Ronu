@@ -7,7 +7,7 @@ def create_blog_post_card(post):
     title = post.get("title", "No Title")
     body_raw = post.get("bodyofcontent", "No content available")
     body = body_raw[:200] + "..." if len(body_raw) > 200 else body_raw
-    link = f"https://berony.web.app/read/{post.get('_id', '')}"
+    link = f"https://berony.web.app/reading/{post.get('_id', '')}"
     image_url = post.get("imageUrl", "")
     created_at = post.get("createdAt", "Unknown date")
 
