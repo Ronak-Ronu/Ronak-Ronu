@@ -18,11 +18,10 @@ def create_blog_post_card(post):
       <img src="{image_url}" width="50" style="margin-right: 10px;">
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      <strong>{title}</strong><br>
-      <small style="color: #555;">Posted on: {created_at[:10]}</small><br>
-      <p style="font-size: 14px; margin: 5px 0;">{body}</p>
-      <a href="{link}" target="_blank">Read More</a>
-    </td>
+<strong style="font-size: 14px; color: #333;">{title}</strong><br>
+<small style="color: #666; font-size: 12px;">Posted on: {created_at[:10]}</small><br>
+<p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;">{body}</p>
+<a href="{link}" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
   </tr>
   <tr>
     <td colspan="2" style="padding: 5px;">
