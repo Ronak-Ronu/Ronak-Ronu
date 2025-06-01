@@ -79,16 +79,14 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 <table style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; max-width: 500px; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/czvoqzbslux2gvfgvyfa" width="50" style="margin-right: 10px;">
+      <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/bqegbsvxblz5p7m0i6hu" width="50" style="margin-right: 10px;">
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      <strong>New Feature Alert 🚨🚨🚨</strong><br>
-      <small style="color: #555;">Posted on: 2025-05-29</small><br>
-      <p style="font-size: 14px; margin: 5px 0;">    <h1 align="center">New Feature Alert: Follower Notifications Go BRRR! 🚨</h1>
-
-  <p align="justify">Hold onto your keyboards, folks, because we’ve just rolled out a feature so hot it might crash ...</p>
-      <a href="https://berony.web.app/reading/68385485bb76b512cc76e62a" target="_blank">Read More</a>
-    </td>
+<strong style="font-size: 14px; color: #333;">Kubernetes Without Docker Is the Future — Are You Ready?</strong><br>
+<small style="color: #666; font-size: 12px;">Posted on: 2025-05-31</small><br>
+<p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><div class="code-block" bgcolor="#f0f0f0"><pre><code><font color="grey" size="3"></font></code></pre><div>  <h2 align="left"><b>Kubernetes Ditches Docker: The Great Container Divorce!</b></h1>
+  <h4 a...</p>
+<a href="https://berony.web.app/reading/683ad3575cfc5b4f2c7b8cc0" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
   </tr>
   <tr>
     <td colspan="2" style="padding: 5px;">
