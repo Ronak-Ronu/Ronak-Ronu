@@ -84,8 +84,10 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
     <td style="vertical-align: top; padding: 5px;">
 <strong style="font-size: 14px; color: #333;">Kubernetes Without Docker Is the Future — Are You Ready?</strong><br>
 <small style="color: #666; font-size: 12px;">Posted on: 2025-05-31</small><br>
- <h2 align="left"><b>Kubernetes Ditches Docker: The Great Container Divorce!</b></h1>
-  <h4 a...</p>
+<p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><h2 align="left"><b>Kubernetes Ditches Docker: The Great Container Divorce!</b></h1>
+  <h4 align="left"><i>Why Kubernetes Kicked Docker to the Curb (and Why It’s Not the End of the World)</i></h3>
+
+  ...</p>
 <a href="https://berony.web.app/reading/683ad3575cfc5b4f2c7b8cc0" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
   </tr>
   <tr>
