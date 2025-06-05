@@ -86,7 +86,7 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 <small style="color: #666; font-size: 12px;">Posted on: 2025-06-03</small><br>
 <p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><pre class="code-block"><div class="code-line"></div></pre><h1>Is Ruby on Rails Secretly a Superhero in Disguise? 🤔</h1>
 
-<p>Let's be honest, Ruby on Rails doesn't get the love it deserves. It's lik...</p>
+<p>Let's be honest, Ruby on Rails doesn't get the love it deserves. It's like ...</p>
 <a href="https://berony.web.app/reading/683f1d6d5cfc5b4f2c7c1872" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
   </tr>
   <tr>
