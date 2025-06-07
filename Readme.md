@@ -79,15 +79,15 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 <table style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; max-width: 500px; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/k9cnkmcacsqbbvplfzp0" width="50" style="margin-right: 10px;">
+      <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/xwsiy6tzdt9wakxavhii" width="50" style="margin-right: 10px;">
     </td>
     <td style="vertical-align: top; padding: 5px;">
-<strong style="font-size: 14px; color: #333;">why ruby on rails is underrated</strong><br>
-<small style="color: #666; font-size: 12px;">Posted on: 2025-06-03</small><br>
-<p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><pre class="code-block"><div class="code-line"></div></pre><h1>Is Ruby on Rails Secretly a Superhero in Disguise? 🤔</h1>
+<strong style="font-size: 14px; color: #333;"><h1 id="ad4e" class="pw-post-title qn fo qo as go qp qq qr qs qt qu qv qw qx qy qz ra rb rc rd re rf rg rh ri rj bx" data-testid="storyTitle" data-selectable-paragraph="" style="box-sizing: inherit; margin: 0px 0px 32px; font-family: sohne, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(36, 36, 36); letter-spacing: -0.011em; line-height: 52px; font-size: 42px;">I quit Building Frontends. 'Cause MCP Servers Let AI Run My Apps</h1></strong><br>
+<small style="color: #666; font-size: 12px;">Posted on: 2025-06-06</small><br>
+<p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><pre class="code-block"><div class="code-line"></div></pre><h3>So Long, React! Hello, AI Overlords! 👋</h3>
 
-<p>Let's be honest, Ruby on Rails doesn't get the love it deserves. It's like ...</p>
-<a href="https://berony.web.app/reading/683f1d6d5cfc5b4f2c7c1872" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
+<p>Okay, folks, gather 'round the digital campfire because I've got a confession. I've hung ...</p>
+<a href="https://berony.web.app/reading/68428e4c3698f9c96c5c84f7" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
   </tr>
   <tr>
     <td colspan="2" style="padding: 5px;">
