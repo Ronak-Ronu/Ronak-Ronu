@@ -86,7 +86,7 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 <small style="color: #666; font-size: 12px;">Posted on: 2025-06-08</small><br>
 <p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><pre class="code-block"><div class="code-line"></div></pre><h3>So, You Think You're Human? Let's Talk reCaptcha!</h3>
 
-<p>Alright, buckle up buttercups! Ever feel like you're constantly proving you'...</p>
+<p>Alright, buckle up buttercups! Ever feel like you're constantly proving you're...</p>
 <a href="https://berony.web.app/reading/6845b29a7bf492be2eda008c" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
   </tr>
   <tr>
