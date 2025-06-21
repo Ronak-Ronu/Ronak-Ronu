@@ -75,27 +75,7 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 ---
 
 #### Recent Blog Posts From Berony <a href="https://berony.web.app" target="_blank">[Visit Berony]</a>
-
-<table style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; max-width: 500px; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; padding: 5px;">
-      <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/vvpmoam79r9csvrzoxg2" width="50" style="margin-right: 10px;">
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-<strong style="font-size: 14px; color: #333;"><h1 id="3c6a" class="pw-post-title gf gg gh bf gi gj gk gl gm gn go gp gq gr gs gt gu gv gw gx gy gz ha hb hc hd he hf hg hh bk" data-testid="storyTitle" data-selectable-paragraph="" style="box-sizing: inherit; margin: 1.19em 0px 32px; font-family: sohne, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: rgb(36, 36, 36); line-height: 52px; letter-spacing: -0.011em; font-size: 42px;">Implementing Google reCaptcha</h1></strong><br>
-<small style="color: #666; font-size: 12px;">Posted on: 2025-06-08</small><br>
-<p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><pre class="code-block"><div class="code-line"></div></pre><h3>So, You Think You're Human? Let's Talk reCaptcha!</h3>
-
-<p>Alright, buckle up buttercups! Ever feel like you're constantly proving you're...</p>
-<a href="https://berony.web.app/reading/6845b29a7bf492be2eda008c" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 5px;">
-      <small style="color: #1a73e8;">#TechNotifications #RealTimeAlerts #BRRRmeme</small>
-    </td>
-  </tr>
-</table>
-
+No new blog posts available.
 
 #### Top users who merges their thoughts.
 <!-- <pre>
