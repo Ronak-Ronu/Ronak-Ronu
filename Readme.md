@@ -75,7 +75,26 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 ---
 
 #### Recent Blog Posts From Berony <a href="https://berony.web.app" target="_blank">[Visit Berony]</a>
-No new blog posts available.
+
+<table style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; max-width: 500px; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; padding: 5px;">
+      <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/azmidk8sgwvo8cvd14f0" width="50" style="margin-right: 10px;">
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+<strong style="font-size: 14px; color: #333;"><h3 dir="auto"><strong>Caught in the AI Shortcut? Why Your Brain Beats Bots for Assignments</strong></h3>
+<p dir="auto" style="white-space-collapse: preserve;"></p></strong><br>
+<small style="color: #666; font-size: 12px;">Posted on: 2025-06-20</small><br>
+<p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><pre class="code-block"><div class="code-line"></div></pre><h3 dir="auto"><p dir="auto" style="font-size: 18px; font-weight: 400; white-space-collapse: preserve;">                   It’s a lazy Friday...</p>
+<a href="https://berony.web.app/reading/685535cfc4201ae8ed4acd32" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 5px;">
+      <small style="color: #1a73e8;">#TechNotifications #RealTimeAlerts #BRRRmeme</small>
+    </td>
+  </tr>
+</table>
+
 
 #### Top users who merges their thoughts.
 <!-- <pre>
