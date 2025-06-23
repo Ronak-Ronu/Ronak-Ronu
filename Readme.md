@@ -78,7 +78,7 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 <table style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; max-width: 500px; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/azmidk8sgwvo8cvd14f0" width="50" style="margin-right: 10px;">
+      <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/azmidk8sgwvo8cvd14f0" width="200" style="margin-right: 10px;">
     </td>
     <td style="vertical-align: top; padding: 5px;">
 <strong style="font-size: 14px; color: #333;"><h3 dir="auto"><strong>Caught in the AI Shortcut? Why Your Brain Beats Bots for Assignments</strong></h3>
