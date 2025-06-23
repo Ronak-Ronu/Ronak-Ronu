@@ -56,12 +56,11 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 
 ---
 
-[![Website](https://img.shields.io/badge/Portfolio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://imronak-2002.web.app/)&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RonakSuthar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaksutharb/)&nbsp;&nbsp;&nbsp;
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)&nbsp;&nbsp;&nbsp;
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/Ronak-Ronu" target="_blank"><img alt="Ronak-Ronu" src="https://badges.pufler.dev/visits/Ronak-Ronu/Ronak-Ronu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-
+[![Recent Product](https://img.shields.io/badge/Recent-Product-black?style=flat-square)](https://berony.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RonakSuthar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaksutharb/)
+[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
+<a href="https://github.com/Ronak-Ronu" target="_blank"><img alt="Ronak-Ronu" src="https://badges.pufler.dev/visits/Ronak-Ronu/Ronak-Ronu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 </div>
 
 ---
