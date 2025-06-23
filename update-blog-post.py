@@ -15,7 +15,7 @@ def create_blog_post_card(post):
 <table style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; max-width: 500px; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      <img src="{image_url}" width="50" style="margin-right: 10px;">
+      <img src="{image_url}" width="200" style="margin-right: 10px;">
     </td>
     <td style="vertical-align: top; padding: 5px;">
 <strong style="font-size: 14px; color: #333;">{title}</strong><br>
