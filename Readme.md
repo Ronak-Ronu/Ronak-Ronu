@@ -16,7 +16,7 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 <img align="right" width="300" height="280" src="https://github.com/Ronak-Ronu/Ronak-Ronu/assets/112187817/1172a43d-9b19-4445-9b02-775d1851dfa7">
 </a>
 
-- 🌱 I’m currently learning how I can be **better**. 
+- 🌱 I’m currently <del>learning</del> how I can be <del>**better**</del>**optimal**. 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1AJbow29pZz3Qj8oJ2kvDrMwl_YuJHucRL-Q-meL2h5k/edit?usp=sharing)
 - 🚀 Always ready to collaborate for Dev Experiments
 - ✏️  In free time,I read and write on [medium](https://medium.com/@ronakronu02)
