@@ -78,13 +78,13 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 <table style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; max-width: 500px; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/jjhuqpvse1odquxhtipu" width="200" style="margin-right: 10px;">
+      <img src="https://res.cloudinary.com/beronyimages/image/upload/VBlogData/dzcstl4a3fjaghinxw5d" width="200" style="margin-right: 10px;">
     </td>
     <td style="vertical-align: top; padding: 5px;">
-<strong style="font-size: 14px; color: #333;"><span style="font-family: BluePrinted"><font size="7">SQL OPTIMIZATION: From 3s To 2000ms With Keyset Pagination</font></span></strong><br>
-<small style="color: #666; font-size: 12px;">Posted on: 2025-07-01</small><br>
-<p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><pre class="code-block"><div class="code-line"></div></pre><div><div class="poll-placeholder" data-poll-id="68644905e1f9fe9ac19c0b99">[Poll: You’re building a new API with large datasets. What’s your ...</p>
-<a href="https://berony.web.app/reading/68644925e1f9fe9ac19c0ba7" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
+<strong style="font-size: 14px; color: #333;"><span style="font-family: GhastlyPanic"><font size="7">Help myself</font></span></strong><br>
+<small style="color: #666; font-size: 12px;">Posted on: 2025-06-26</small><br>
+<p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><pre class="code-block"><div class="code-line"></div></pre><p style="white-space-collapse: preserve;" dir="auto"><font size="5">The room was suffocating, cloaked in near-darkness, the only light a fai...</p>
+<a href="https://berony.web.app/reading/685db50dc4201ae8ed4aee7f" target="_blank" style="color: #1a73e8; text-decoration: none; font-size: 14px;">Read More</a>    </td>
   </tr>
   <tr>
     <td colspan="2" style="padding: 5px;">
