@@ -17,7 +17,7 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
 </a>
 
 - 🌱 I’m currently <del>learning</del> practicing how I can be <del>**better**</del> **optimal**. 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1AJbow29pZz3Qj8oJ2kvDrMwl_YuJHucRL-Q-meL2h5k/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1xfYtpA9tIJAlE4UbmCWli-x-GT4n3YnJ/view?usp=sharing)
 - 🚀 Always ready to collaborate for Dev Experiments
 - ✏️  In free time,I read and write on [medium](https://medium.com/@ronakronu02)
 - 🛝 commit -m "Learning and Building".
@@ -82,6 +82,7 @@ Hey! I'm Ronak Suthar 👾, trying to figure out the reason behind what I'm doin
     </td>
     <td style="vertical-align: top; padding: 5px;">
 <strong style="font-size: 14px; color: #333;"><span style="font-family: Cheri;"><h1><font size="7">The Human Side of Code: Surviving and Thriving
+
 in Big Tech's 2025 Reality</font></h1></span></strong><br>
 <small style="color: #666; font-size: 12px;">Posted on: 2025-08-24</small><br>
 <p style="font-size: 14px; color: #444; margin: 8px 0; line-height: 1.5;"><pre class="code-block"><div class="code-line"></div></pre><div><div class="poll-placeholder" data-poll-id="68ab239051ab45f6b7686b9a"><i>A candid look at what it really takes to build meaningful caree...</p>
